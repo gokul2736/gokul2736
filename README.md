@@ -2,8 +2,6 @@
 
  My life is like a Christopher Nolan movie—don’t try to understand it, just feel it.
 
-If sarcasm had a Sibling it's me...
-  
 ![GitHub followers](https://img.shields.io/github/followers/gokul2736?style=social)  
 ![Profile Views](https://komarev.com/ghpvc/?username=gokul2736&color=blue)
 
