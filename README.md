@@ -1,8 +1,7 @@
  # 👋 Hi, I'm Gokul!
 
  My life is like a Christopher Nolan movie—don’t try to understand it, just feel it.
-
-![GitHub followers](https://img.shields.io/github/followers/gokul2736?style=social)  
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=gokul2736&color=blue)
 
 Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects. I love contributing to the community and exploring innovative solutions.
