@@ -2,7 +2,7 @@
 
  My life is like a Christopher Nolan movie—don’t try to understand it, just feel it.
  
-![Profile Views](https://img.shields.io/badge/Profile_Views-XXX-blue?style=for-the-badge&logo=github)
+![Profile Views](https://img.shields.io/badge/Profile_Views-0-blue?style=flat-square&logo=github)
 
 ## Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects.
 
