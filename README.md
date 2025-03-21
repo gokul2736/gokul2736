@@ -2,9 +2,9 @@
 
  My life is like a Christopher Nolan movie—don’t try to understand it, just feel it.
  
-![Profile Views](https://komarev.com/ghpvc/?username=gokul2736&color=blue)
+![Profile Views](https://img.shields.io/badge/Profile_Views-XXX-blue?style=for-the-badge&logo=github)
 
-Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects. I love contributing to the community and exploring innovative solutions.
+## Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects.
 
 ---
 
@@ -18,10 +18,9 @@ Welcome to my GitHub profile! I'm passionate about technology, education, and cr
   - 🔍 **Optical Character Recognition (OCR) Applications**  
   - 🤖 **Prompt Engineering**
     
-- 🔧 Interests:
-  - **Electronics & Communication Engineering (ECE)** IoT 🤖  
-  - Drone Piloting & Embedded Systems 🚁
-  -  Photography 📸 (Managing a dedicated Instagram page)
+- 🔧 Interests: 
+  - **Prompt Engineering**
+  - Photography 📸 (Managing a dedicated Instagram page)
   - AI-Powered Solutions & Human-Computer Interaction 🌐  
 
 ---
@@ -48,24 +47,13 @@ Welcome to my GitHub profile! I'm passionate about technology, education, and cr
 - Passionate about contributing to **interdisciplinary projects** across technology, electronics, and AI.  
 - Open to collaborating on projects that make a meaningful impact!  
 
----
-
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)  
-![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat)  
-![LEGO Mindstorms](https://img.shields.io/badge/-LEGO%20Mindstorms-red?logo=lego&logoColor=white&style=flat)  
-![Flipper Zero](https://img.shields.io/badge/-Flipper%20Zero-orange?style=flat)  
-![Tesseract](https://img.shields.io/badge/-Tesseract-lightgreen?logo=none&style=flat)  
-![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-purple?style=flat)  
-![Drone Piloting](https://img.shields.io/badge/-Drone%20Piloting-blueviolet?style=flat)  
-
----
 
 ## 📫 How to Reach Me
 
 - **Gmail**: gokulm2732006@gmail.com  
 - **Instagram**: [Nature Clicks](https://www.instagram.com/nature.clicks638/)
 - **LinkedIn**: [Gokul M](https://www.linkedin.com/in/gokul-m-659542216/)
+
 
 ---
 
