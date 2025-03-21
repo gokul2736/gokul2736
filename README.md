@@ -6,8 +6,6 @@
 
 ## Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects.
 
----
-
 ## 🚀 About Me
 
 - 🎓 **Student** at Saveetha Engineering College
@@ -30,9 +28,9 @@
 ### 🔐 **Cybersecurity & Digital Forensics**  
 - Researching encryption methods and network defense strategies.  
 - Hands-on experience with **FTK Imager** for forensic investigations:
-  - Creating and analyzing disk images.
-  - Recovering evidence for cybersecurity projects.
-- Exploring ethical hacking techniques to strengthen system security.  
+ - Creating and analyzing disk images.
+ - Recovering evidence for cybersecurity projects.
+ - Exploring ethical hacking techniques to strengthen system security.  
 
 ### 🔍 **Optical Character Recognition (OCR)**  
 - Developing systems to extract text from images and scanned documents using tools like Tesseract and Python.  
@@ -55,13 +53,8 @@
 - **LinkedIn**: [Gokul M](https://www.linkedin.com/in/gokul-m-659542216/)
 
 
----
-
 ## 🌱 Fun Facts
 
 - 📸 Love capturing stunning landscapes and moments.  
 - 🔐 Fascinated by the challenges of **cybersecurity** and its real-world applications.  
 - 🎉 Excited to collaborate on **projects that bridge science, technology, and creativity**!  
-
----
-
