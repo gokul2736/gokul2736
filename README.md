@@ -73,4 +73,4 @@
 ![Gokul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokul-m)
 
 ## WakaTime Stats
-![Gokul's WakaTime Stats](https://wakatime.com/badge/user/your-user-id.svg)
+![Gokul's WakaTime Stats](https://wakatime.com/badge/user/gokul2736.svg)
