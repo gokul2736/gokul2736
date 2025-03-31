@@ -1,6 +1,7 @@
  # 👋 Hi, I'm Gokul!
 - 🎓 **Student** at Saveetha Engineering College
- My life is like a Christopher Nolan movie—don’t try to understand it, just feel it.
+
+  "My life is like a Christopher Nolan movie—don’t try to understand it, just feel it."
  
 #### Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects.
 
