@@ -4,14 +4,8 @@
  
 #### Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects.
 
-## 🧑‍💻 My LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=gokul2736)
-
-## 📊 GitHub Stats
-![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-m&show_icons=true&count_private=true)
-
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-m&layout=compact)
+## 📊 GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 Top Languages
+![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-m&show_icons=true&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-m&layout=compact)
 
 ## 🚀 About Me
   
@@ -58,3 +52,5 @@
 - 📸 Love capturing stunning landscapes and moments.  
 - 🔐 Fascinated by the challenges of **cybersecurity** and its real-world applications.  
 - 🎉 Excited to collaborate on **projects that bridge science, technology, and creativity**!
+
+
