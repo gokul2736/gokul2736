@@ -1,12 +1,19 @@
  # 👋 Hi, I'm Gokul!
-
+- 🎓 **Student** at Saveetha Engineering College
  My life is like a Christopher Nolan movie—don’t try to understand it, just feel it.
  
-## Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects.
+#### Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects.
+
+## 🧑‍💻 My LeetCode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=gokul2736)
+
+## 📊 GitHub Stats
+![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-m&show_icons=true&count_private=true)
+
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-m&layout=compact)
 
 ## 🚀 About Me
-
-- 🎓 **Student** at Saveetha Engineering College
   
 - 🌟 Currently working on:
   - 🖥️ **Django Projects**  
@@ -14,14 +21,12 @@
   - 🔍 **Optical Character Recognition (OCR) Applications**  
   - 🤖 **Prompt Engineering**
     
-- 🔧 Interests: 
+## -🔧Interests: 
   - **Prompt Engineering**
   - Photography 📸 (Managing a dedicated Instagram page)
   - AI-Powered Solutions & Human-Computer Interaction 🌐  
 
----
-
-## 🌟 Projects & Contributions
+## 🌟 Projects & Contributions:
 
 ### 🔐 **Cybersecurity & Digital Forensics**  
 - Researching encryption methods and network defense strategies.  
@@ -50,27 +55,6 @@
 - **Instagram**: [Nature Clicks](https://www.instagram.com/nature.clicks638/)
 - **LinkedIn**: [Gokul M](https://www.linkedin.com/in/gokul-m-659542216/)
 
-
-## 🌱 Fun Facts
-
 - 📸 Love capturing stunning landscapes and moments.  
 - 🔐 Fascinated by the challenges of **cybersecurity** and its real-world applications.  
 - 🎉 Excited to collaborate on **projects that bridge science, technology, and creativity**!
-
-
-
-
-
-
-
-# GitHub Stats
-![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-m&show_icons=true&count_private=true&hide=prs)
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-m&layout=compact)
-
-## GitHub Streak
-![Gokul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokul-m)
-
-## WakaTime Stats
-![Gokul's WakaTime Stats](https://wakatime.com/badge/Gokul/gokul2736.svg)
