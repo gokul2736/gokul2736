@@ -55,4 +55,22 @@
 
 - 📸 Love capturing stunning landscapes and moments.  
 - 🔐 Fascinated by the challenges of **cybersecurity** and its real-world applications.  
-- 🎉 Excited to collaborate on **projects that bridge science, technology, and creativity**!  
+- 🎉 Excited to collaborate on **projects that bridge science, technology, and creativity**!
+
+
+
+
+
+
+
+# GitHub Stats
+![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-m&show_icons=true&count_private=true&hide=prs)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-m&layout=compact)
+
+## GitHub Streak
+![Gokul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokul-m)
+
+## WakaTime Stats
+![Gokul's WakaTime Stats](https://wakatime.com/badge/user/your-user-id.svg)
