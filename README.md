@@ -5,9 +5,6 @@
  
 #### Welcome to my GitHub profile! I'm passionate about technology, education, and creating impactful projects.
 
-## 📊 GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 Top Languages
-![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-m&show_icons=true&count_private=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-m&layout=compact)
-
 ## 🚀 About Me
   
 - 🌟 Currently working on:
