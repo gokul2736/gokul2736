@@ -2,9 +2,9 @@
 <h1 align="center">Hey there 👋, I'm Gokul</h1>
 
 <p align="center">
-  🚀 B.Tech AIML Student | 🛡️ Cybersecurity Enthusiast | 💻 Tech Builder | ❤️ Passionate Storyteller
+  🚀 B.Tech AIML Student | 🛡️ Cybersecurity Enthusiast | 💻 Tech Builder | ❤️ Passionate Shutter Bug
 </p>
-
+"Between silicon and graphite, between code and frame — I build, carve, and capture."
 
 ### 🧠 About Me
 
@@ -67,6 +67,23 @@ In a world full of distractions, I have a reason to stay focused — and that re
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 
+### 🎨 Beyond the Screen
+While code shapes my logic, art refines my patience.  
+I practice the delicate craft of **micro-carving**, sculpting stories on the fragile tips of pencil leads and chalk nibs. Precision isn't just in my code — it's etched into every grain I carve.
+
+Through the lens, I chase light and shadow — a **shutterbug** by instinct, capturing moments that speak when words fall short.  
+Photography is where I slow down time; micro-carving is where I shape it.
+
+> "Between silicon and graphite, between code and frame — I build, carve, and capture."
+> With blades and lenses, I shape the unseen.
+>
+> When I’m not building with logic,
+I carve stories on pencil tips and chalk nibs — a craft of precision and patience.
+Off-screen, I’m also a shutterbug, capturing life one frame at a time.
+
+Art sharpens my hands. Passion sharpens my purpose.
+
+
 #### 🧠 Interests  
 💡 Interests & Side Projects
 SlotSniper – Full-stack automation project (Flask, encryption, form UI, backend scheduler)
@@ -75,10 +92,10 @@ AI OCR Scanner – Used AI to convert images to text
 
 Phishing Link Detector – Identifying malicious URLs
 
-ProjectHer (Private) – Personal memory tracker / emotional storytelling via Git
+Project-K (Private) – Personal memory tracker / emotional storytelling via Git
 
 Dream Desk Setup – Planning a hacker lab with full gear
 
-## "Tech is my weapon, but passion is my purpose."
+
 ### In a world full of distractions, I have a reason to stay focused — and that reason is her. 🤍✨
 # — Gokul
