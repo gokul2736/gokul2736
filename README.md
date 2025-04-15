@@ -51,15 +51,18 @@ In a world full of distractions, I have a reason to stay focused — and that re
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 #### 🕵️‍♂️ Cybersecurity & Networking  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
-![Tor Browser](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-🛰️ TP-Link Router Tools  
-🗺️ Nmap / Netdiscover – Network Mapping
-
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)  
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)  
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
+![TP-Link Rerouting](https://img.shields.io/badge/TP--Link%20Router%20Tools-1E8CFF?style=flat&logo=tp-link&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-0076A8?style=flat&logo=nmap&logoColor=white)  
+![Brute Force](https://img.shields.io/badge/Brute%20Force-FF6347?style=flat&logo=attack-defense&logoColor=white)  
+![Keylogger](https://img.shields.io/badge/Keylogger-D2691E?style=flat&logo=keylogger&logoColor=white)  
+![NetHunter](https://img.shields.io/badge/Kali%20NetHunter-FFFFFF?style=flat&logo=kalilinux&logoColor=black)
 
 #### 🔌 Devices  
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
@@ -76,4 +79,6 @@ ProjectHer (Private) – Personal memory tracker / emotional storytelling via Gi
 
 Dream Desk Setup – Planning a hacker lab with full gear
 
-
+## "Tech is my weapon, but passion is my purpose."
+### In a world full of distractions, I have a reason to stay focused — and that reason is her. 🤍✨
+# — Gokul
