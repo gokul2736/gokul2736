@@ -4,7 +4,10 @@
 <p align="center">
   🚀 B.Tech AIML Student | 🛡️ Cybersecurity Enthusiast | 💻 Tech Builder | ❤️ Passionate Shutter Bug
 </p>
-"Between silicon and graphite, between code and frame — I build, carve, and capture."
+
+<p align="center">
+  "Between silicon and graphite, between code and frame — I build, carve, and capture."
+</p>
 
 ### 🧠 About Me
 
@@ -50,6 +53,12 @@ In a world full of distractions, I have a reason to stay focused — and that re
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
+#### 🔌 Devices  
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+
 #### 🕵️‍♂️ Cybersecurity & Networking  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)  
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)  
@@ -60,12 +69,6 @@ In a world full of distractions, I have a reason to stay focused — and that re
 ![Brute Force](https://img.shields.io/badge/Brute%20Force-FF6347?style=flat&logo=attack-defense&logoColor=white)  
 ![Keylogger](https://img.shields.io/badge/Keylogger-D2691E?style=flat&logo=keylogger&logoColor=white)  
 ![NetHunter](https://img.shields.io/badge/Kali%20NetHunter-FFFFFF?style=flat&logo=kalilinux&logoColor=black)
-
-#### 🔌 Devices  
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
 
 ### 🎨 Beyond the Screen
 While code shapes my logic, art refines my patience.  
@@ -92,10 +95,10 @@ AI OCR Scanner – Used AI to convert images to text
 
 Phishing Link Detector – Identifying malicious URLs
 
-Project-K (Private) – Personal memory tracker / emotional storytelling via Git
+Project-K (Private) – Personal memory tracker / storytelling via Git
 
 Dream Desk Setup – Planning a hacker lab with full gear
 
 
 ### In a world full of distractions, I have a reason to stay focused — and that reason is her. 🤍✨
-# — Gokul
+# GokuL
