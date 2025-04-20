@@ -30,10 +30,10 @@
 
 
 #### 🔧 Frameworks & Tools  
+![Prototyping](https://img.shields.io/badge/Prototyping-FF6347?style=flat&logo=figma&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Fernet](https://img.shields.io/badge/Fernet-007ACC?style=flat&logo=python&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-008F39?style=flat&logo=termux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -48,7 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-100000?style=flat&logo=obs-studio&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-000000?style=flat&logo=audacity&logoColor=white)
-
+![Sony Alpha](https://img.shields.io/badge/Sony%20Alpha-000000?style=flat&logo=sony&logoColor=white)
 
 
 #### 🧪 Currently Exploring  
@@ -87,7 +87,6 @@
 ![HashCalc](https://img.shields.io/badge/HashCalc-1E90FF?style=flat&logo=windows&logoColor=white)
 ![Cryptanalysis](https://img.shields.io/badge/Cryptanalysis-800080?style=flat&logo=lock&logoColor=white)
 ![🧩 Reverse Engineering Basics](https://img.shields.io/badge/🧩%20Reverse%20Engineering%20Basics-4B0082?style=flat&logoColor=white)
-
 
 
 ### 🎨 Beyond the Screen
