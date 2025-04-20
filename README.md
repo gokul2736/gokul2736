@@ -94,8 +94,9 @@
 I practice the delicate craft of **micro-carving**, sculpting stories on the fragile
 neither I do carve stories on pencil tips and chalk nibs — a craft of precision and patience.
 
-Through the lens, Imma **shutterbug** by instinct, capturing moments that speak.  
-Off-screen, I’m also a non photogenic shutterbug, capturing life one frame at a time.
+Through the lens, I'm a **shutterbug** by instinct, capturing moments that speak.  
+Off-screen,also a non photogenic shutterbug, capturing skies.
+
 
 ## 🧠 Interests & Side Projects
 
