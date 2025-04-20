@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love to **blend tech with stories** — sometimes in GitHub repos, sometimes in life 🤍✨
 - 📖 Currently deep diving into **ARCH & KALI Linux, ethical hacking, and real-world automation**.
 - 🛠️ Upcoming project: Using a **Raspberry Pi** as my own local lab server.
-- 📸 Subtle stories live on ProjectHer 💙 (private repo, but trust me — it’s real)
+- 📸 Subtle stories live on Project-K (private repo, but trust me — it’s real)
 
 
 ### 🧰 Tech Stack
