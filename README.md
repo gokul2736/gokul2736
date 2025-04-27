@@ -86,8 +86,7 @@
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-003B49?style=flat&logo=data:image/png;base64,INSERT_BASE64_ENCODED_LOGO_HERE)
 ![HashCalc](https://img.shields.io/badge/HashCalc-1E90FF?style=flat&logo=windows&logoColor=white)
 ![Cryptanalysis](https://img.shields.io/badge/Cryptanalysis-800080?style=flat&logo=lock&logoColor=white)
-![🧩 Reverse Engineering Basics](https://img.shields.io/badge/🧩%20Reverse%20Engineering%20Basics-4B0082?style=flat&logoColor=white)
-
+![🧩 Reverse Engineering Basics](https://img.shields.io/badge/🧩%20Reverse%20Engineering%20Basics-4B0082?style=flat&logoColor=white)  
 
 ### 🎨 Beyond the Screen
 
