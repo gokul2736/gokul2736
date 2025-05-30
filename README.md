@@ -112,6 +112,6 @@ Dream Desk Setup – Planning a hacker lab with full gear
 
 Thermal Ninja – A real-time temperature monitor for laptops with live graphs and system alerts for overheating.
 
-## In a world full of distractions, I have a reason to stay focused.. and that reason is her...🤍✨
+### In a world full of distractions, I have a reason to stay focused.. and that reason is her...🤍✨
 
-***GokuL*** A split intellectual....
+--- split intellectual....
