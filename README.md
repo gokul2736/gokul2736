@@ -2,21 +2,19 @@
 <h1 align="center">Hey there 👋, I'm Gokul</h1>
 
 <p align="center">
-  🚀 B.Tech AIML Fellow | 🛡️ Cybersecurity Enthusiast | 💻 Tech Builder | ❤️ Passionate Shutter Bug
+  🚀 B.Tech AIML Fellow | 🛡️ Cybersecurity Enthusiast | ❤️ Passionate Shutter Bug
 </p>
 
 <p align="center">
-  "Between silicon and graphite, between code and frame — I build, carve, and capture."
+  "Between silicon and graphite — I build, carve, and capture."
 </p>
 
 ### 🧠 About Me
 
 - 🔭 I’m currently building: **SlotSniper** – an automated exam slot booking tool for students using Flask & automation scripts.
-- 🌱 Learning everything I can about **AI, cybersecurity, and automation**.
-- ⚡ Fun fact: I love to **blend tech with stories** — sometimes in GitHub repos, sometimes in life 🤍✨
-- 📖 Currently deep diving into **ARCH & KALI Linux, ethical hacking, and real-world automation**.
-- 🛠️ Upcoming project: Using a **Raspberry Pi** as my own local lab server.
-- 📸 Subtle stories live on Project-K (private repo, but trust me — it’s real)
+- 🌱 Learning everything I can about **LLM, Cybersecurity, and automation**.
+- 📖 Currently deep diving into **KALI Linux & Digital Forensics**.
+- 📸 Subtle stories live on Project-K 
 
 
 ### 🧰 Tech Stack
@@ -45,7 +43,6 @@
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=flat&logo=autodesk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-100000?style=flat&logo=obs-studio&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-000000?style=flat&logo=audacity&logoColor=white)
 ![Sony Alpha](https://img.shields.io/badge/Sony%20Alpha-000000?style=flat&logo=sony&logoColor=white)
