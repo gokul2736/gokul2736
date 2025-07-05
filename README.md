@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently building: **SlotSniper** – an automated exam slot booking tool for students using Flask & automation scripts.
 - 🌱 Learning everything I can about **LLM & Cybersecurity**.
-- 📖 Diving deep into **KALI Linux & Digital Forensics**.
+- 📖 Diving deep into **Kali Linux, Digital Footprints & Forensics**.
 - 📸 Framing the unseen @ [Shutterbug.638](https://www.instagram.com/shutterbug.638/)
 
 
