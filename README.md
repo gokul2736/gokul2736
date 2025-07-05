@@ -12,10 +12,9 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently building: **SlotSniper** – an automated exam slot booking tool for students using Flask & automation scripts.
-- 🌱 Learning everything I can about **LLM, Cybersecurity, and automation**.
-- 📖 Currently deep diving into **KALI Linux & Digital Forensics**.
-- 📸 Subtle stories live on Project-K 
-
+- 🌱 Learning everything I can about **LLM & Cybersecurity**.
+- 📖 Diving deep into **KALI Linux & Digital Forensics**.
+- 📸 Capturing life one frame at a time — [shutterbug.638](https://www.instagram.com/shutterbug.638/)
 
 ### 🧰 Tech Stack
 
@@ -23,35 +22,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-
-#### 🔧 Frameworks & Tools  
-![Prototyping](https://img.shields.io/badge/Prototyping-FF6347?style=flat&logo=figma&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Fernet](https://img.shields.io/badge/Fernet-007ACC?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Windows OS](https://img.shields.io/badge/Windows%20OS-0078D4?style=flat&logo=windows&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![OCR Tesseract](https://img.shields.io/badge/OCR%20Tesseract-000000?style=flat&logo=tesseract&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=flat&logo=autodesk&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-100000?style=flat&logo=obs-studio&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-000000?style=flat&logo=audacity&logoColor=white)
-![Sony Alpha](https://img.shields.io/badge/Sony%20Alpha-000000?style=flat&logo=sony&logoColor=white)
 
 
 #### 🧪 Currently Exploring  
 ![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1E90FF?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-FF3B30?style=flat&logo=tryhackme&logoColor=white)  
 ![GTA V Modding](https://img.shields.io/badge/GTA%20V%20Modding-008000?style=flat&logo=rockstar-games&logoColor=white)
 ![MonkeyType](https://img.shields.io/badge/Monkey%20Type-FFD700?style=flat&logo=keyboard&logoColor=black)
@@ -99,16 +76,10 @@ Off-screen,also a non photogenic shutterbug, capturing skies.
 
 SlotSniper – Full-stack automation project (Flask, encryption, form UI, backend scheduler)
 
-AI OCR Scanner – Used AI to convert images to text
-
-Phishing Link Detector – Identifying malicious URLs
+EerkAI – Used AI to convert images to text
 
 Project-K (Private) – Personal memory tracker / storytelling via Git
 
-Dream Desk Setup – Planning a hacker lab with full gear
-
 Thermal Ninja – A real-time temperature monitor for laptops with live graphs and system alerts for overheating.
 
-#### In a world full of distractions, I have a reason to stay focused.. and that reason is her...🤍✨
-
---- split intellectual....
+#### In a world full of distractions, I have a reason to stay focused.. and that reason is her...🤍
