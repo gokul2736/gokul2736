@@ -14,9 +14,8 @@
 - 🔭 I’m currently building: **SlotSniper** – an automated exam slot booking tool for students using Flask & automation scripts.
 - 🌱 Learning everything I can about **LLM & Cybersecurity**.
 - 📖 Diving deep into **KALI Linux & Digital Forensics**.
-- 📸 Capturing life one frame at a time — [shutterbug.638](https://www.instagram.com/shutterbug.638/)
+- 📸 Framing the unseen @ [Shutterbug.638](https://www.instagram.com/shutterbug.638/)
 
-### 🧰 Tech Stack
 
 #### 👨‍💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,15 +26,10 @@
 
 
 #### 🧪 Currently Exploring  
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1E90FF?style=flat&logo=openai&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-FF3B30?style=flat&logo=tryhackme&logoColor=white)  
-![GTA V Modding](https://img.shields.io/badge/GTA%20V%20Modding-008000?style=flat&logo=rockstar-games&logoColor=white)
-![MonkeyType](https://img.shields.io/badge/Monkey%20Type-FFD700?style=flat&logo=keyboard&logoColor=black)
-![ARM Robotics](https://img.shields.io/badge/ARM%20Robotics-FF6F00?style=flat&logo=arm&logoColor=white)
-![Lockheed Martin](https://img.shields.io/badge/Lockheed%20Martin-003B49?style=flat&logo=lockheedmartin&logoColor=white)  
 ![DFIR](https://img.shields.io/badge/DFIR-Digital%20Forensics%20%26%20Incident%20Response-003B49?style=flat&logo=virustotal&logoColor=white)
-
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-007ACC?style=flat&logo=tensorflow&logoColor=white)  
+![Dijkstra](https://img.shields.io/badge/Dijkstra-Shortest%20Path-green?style=flat&logo=python&logoColor=white)
+![SHA-256](https://img.shields.io/badge/SHA--256-Hashing%20Algorithm-orange?style=flat&logo=verizon&logoColor=white)
 
 
 #### 🔌 Devices  
