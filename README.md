@@ -68,12 +68,12 @@ Off-screen,also a non photogenic shutterbug, capturing skies.
 
 ## 🧠 Interests & Side Projects
 
-SlotSniper – Full-stack automation project (Flask, encryption, form UI, backend scheduler)
+SlotSniper – Full-stack booking automation project using Flask 
 
-EerkAI – Used AI to convert images to text
-
-Project-K (Private) – Personal memory tracker / storytelling via Git
+EerkAI – AI to convert images to text & PDF's
 
 Thermal Ninja – A real-time temperature monitor for laptops with live graphs and system alerts for overheating.
 
-#### In a world full of distractions, I have a reason to stay focused.. and that reason is her...🤍✨
+Project-K (Private) – storytelling via Git
+
+#### In a world full of distractions, I have a reason to stay focused...🤍✨
