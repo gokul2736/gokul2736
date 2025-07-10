@@ -10,7 +10,7 @@
 </p>
 
 
-### 🧠 About Me
+### About Me
 
 - 🔭 I’m currently building: **SlotSniper** – an automated exam slot booking tool for students using Flask & automation scripts.
 - 🌱 Learning everything I can about **LLM & Cybersecurity**.
@@ -58,9 +58,9 @@ Through the lens, I'm a **shutterbug** by instinct, capturing moments that speak
 Off-screen,also a non photogenic shutterbug, capturing skies.
 
 
-## 🧠 Interests & Side Projects
+## 🧠 Interests & Side Projects (on Progress*)
 
-KaptureLab - To generate clean, QR-enabled lab record PDFs
+KaptureLab - To generate clean, QR-enabled lab record PDFs 
 
 SlotSniper – Full-stack booking automation project using Flask 
 
