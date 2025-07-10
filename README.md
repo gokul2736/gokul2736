@@ -9,7 +9,6 @@
   "Between silicon and graphite — I build, carve, and capture."
 </p>
 
-![GitHub Visitors](https://img.shields.io/badge/Visitors-–%20Loading-blue?logo=github)
 
 ### 🧠 About Me
 
