@@ -9,6 +9,9 @@
   "Between silicon and graphite — I build, carve, and capture."
 </p>
 
+![GitHub](https://visitor-counter-badge.vercel.app/api/gokul2736/gokul2736/?label=&logo=github&logoColor=white&style=flat-square&color=181717&labelColor=181717)
+
+
 ### 🧠 About Me
 
 - 🔭 I’m currently building: **SlotSniper** – an automated exam slot booking tool for students using Flask & automation scripts.
