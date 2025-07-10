@@ -40,22 +40,13 @@
 
 #### 🕵️‍♂️ Cybersecurity & Networking  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![NetHunter](https://img.shields.io/badge/Kali%20NetHunter-FFFFFF?style=flat&logo=kalilinux&logoColor=black)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
 ![Trails OS](https://img.shields.io/badge/Trails%20OS-004B8D?style=flat&logo=linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0076A8?style=flat&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
-![🚧 Bypass Techniques](https://img.shields.io/badge/Bypass%20Techniques-8B0000?style=flat&logo=hackthebox&logoColor=white)
-![🌀 Packet Flipping](https://img.shields.io/badge/Packet%20Flipping-4682B4?style=flat&logo=proxmox&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
 ![TP-Link Rerouting](https://img.shields.io/badge/TP--Link%20Router%20Tools-1E8CFF?style=flat&logo=tp-link&logoColor=white)
-![Keylogger](https://img.shields.io/badge/Keylogger-D2691E?style=flat&logo=keylogger&logoColor=white)
-![Brute Force](https://img.shields.io/badge/Brute%20Force-FF6347?style=flat&logo=attack-defense&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-8C1D40?style=flat&logo=burpsuite&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-003B49?style=flat&logo=data:image/png;base64,INSERT_BASE64_ENCODED_LOGO_HERE)
 ![HashCalc](https://img.shields.io/badge/HashCalc-1E90FF?style=flat&logo=windows&logoColor=white)
-![Cryptanalysis](https://img.shields.io/badge/Cryptanalysis-800080?style=flat&logo=lock&logoColor=white)
-![🧩 Reverse Engineering Basics](https://img.shields.io/badge/🧩%20Reverse%20Engineering%20Basics-4B0082?style=flat&logoColor=white)  
 
 ### 🎨 Beyond the Screen
 
@@ -67,6 +58,8 @@ Off-screen,also a non photogenic shutterbug, capturing skies.
 
 
 ## 🧠 Interests & Side Projects
+
+KaptureLab - To generate clean, QR-enabled lab record PDFs
 
 SlotSniper – Full-stack booking automation project using Flask 
 
