@@ -9,8 +9,7 @@
   "Between silicon and graphite — I build, carve, and capture."
 </p>
 
-![GitHub](https://visitor-counter-badge.vercel.app/api/gokul2736/gokul2736/?label=&logo=github&logoColor=white&style=flat-square&color=181717&labelColor=181717)
-
+![GitHub Visitors](https://img.shields.io/badge/Visitors-–%20Loading-blue?logo=github)
 
 ### 🧠 About Me
 
