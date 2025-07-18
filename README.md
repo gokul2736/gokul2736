@@ -58,7 +58,7 @@ Through the lens, I'm a **shutterbug** by instinct, capturing moments that speak
 Off-screen,also a non photogenic shutterbug, capturing skies.
 
 
-## 🧠 Interests & Side Projects (on Progress*)
+## 🧠 Interests (on Progress*)
 
 KaptureLab - To generate clean, QR-enabled lab record PDFs 
 
