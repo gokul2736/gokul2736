@@ -18,19 +18,21 @@
 - 📸 Framing the unseen @ [Shutterbug.638](https://www.instagram.com/shutterbug.638/)
 
 
-#### 👨‍💻 Languages  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+#### 👨‍💻 Tools 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
 
 #### 🧪 Currently Exploring  
-![DFIR](https://img.shields.io/badge/DFIR-Digital%20Forensics%20%26%20Incident%20Response-003B49?style=flat&logo=virustotal&logoColor=white)
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-007ACC?style=flat&logo=tensorflow&logoColor=white)  
-![Dijkstra](https://img.shields.io/badge/Dijkstra-Shortest%20Path-green?style=flat&logo=python&logoColor=white)
-![SHA-256](https://img.shields.io/badge/SHA--256-Hashing%20Algorithm-orange?style=flat&logo=verizon&logoColor=white)
+![DFIR](https://img.shields.io/badge/DFIR-Digital%20Forensics%20%26%20Incident%20Response-003B49?style=flat&logo=virustotal&logoColor=white)  
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-007ACC?style=flat&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-333333?style=flat&logo=hackthebox&logoColor=green)
+
 
 
 #### 🔌 Devices  
