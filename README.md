@@ -64,7 +64,7 @@ Off-screen,also a non photogenic shutterbug, capturing skies.
 
 KaptureLab - To generate clean, QR-enabled lab record PDFs 
 
-SlotSniper – Full-stack booking automation project using Flask 
+SlotSniper – Full-stack booking automation project using Flask (discontinued)
 
 EerkAI – AI to convert images to text & PDF's
 
