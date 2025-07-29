@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 🔭 I’m currently building: **SlotSniper** – an automated exam slot booking tool for students using Flask & automation scripts.
+- 🔭 I’m currently building: **KaptureLab** - A simple tool to generate clean, QR-enabled lab record PDFs 
 - 🌱 Learning everything I can about **LLM & Cybersecurity**.
 - 📖 Diving deep into **Kali Linux, Digital Footprints & Forensics**.
 - 📸 Framing the unseen @ [Shutterbug.638](https://www.instagram.com/shutterbug.638/)
