@@ -68,8 +68,6 @@ SlotSniper – Full-stack booking automation project using Flask (discontinued)
 
 EerkAI – AI to convert images to text & PDF's
 
-Thermal Ninja – A real-time temperature monitor for laptops with live graphs and system alerts for overheating.
-
 Project-K (Private) – storytelling via Git
 
 #### In a world full of distractions, I have a reason to stay focused...🤍✨
