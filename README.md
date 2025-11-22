@@ -14,7 +14,6 @@
 
 - 🔭 I’m currently building: **KaptureLab** - A simple tool to generate clean, QR-enabled lab record PDFs 
 - 🌱 Learning everything I can about **LLM & Cybersecurity**.
-- 📖 Diving deep into **Kali Linux, Digital Footprints & Forensics**.
 - 📸 Framing the unseen @ [Shutterbug.638](https://www.instagram.com/shutterbug.638/)
 
 
@@ -69,5 +68,3 @@ SlotSniper – Full-stack booking automation project using Flask (discontinued)
 EerkAI – AI to convert images to text & PDF's
 
 Project-K (Private) – storytelling via Git
-
-#### In a world full of distractions, I have a reason to stay focused...🤍✨
