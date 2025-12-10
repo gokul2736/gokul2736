@@ -57,14 +57,3 @@ neither I do carve stories on pencil tips and chalk nibs — a craft of precisio
 
 Through the lens, I'm a **shutterbug** by instinct, capturing moments that speak.  
 Off-screen,also a non photogenic shutterbug, capturing skies.
-
-
-## 🧠 Interests (on Progress*)
-
-KaptureLab - To generate clean, QR-enabled lab record PDFs 
-
-SlotSniper – Full-stack booking automation project using Flask (discontinued)
-
-EerkAI – AI to convert images to text & PDF's
-
-Project-K (Private) – storytelling via Git
