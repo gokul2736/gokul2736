@@ -57,3 +57,9 @@ neither I do carve stories on pencil tips and chalk nibs — a craft of precisio
 
 Through the lens, I'm a **shutterbug** by instinct, capturing moments that speak.  
 Off-screen,also a non photogenic shutterbug, capturing skies.
+
+
+<p align="center">
+  <img src="https://github.com/gokul2736/gokul2736/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
