@@ -33,22 +33,17 @@
 ![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-333333?style=flat&logo=hackthebox&logoColor=green)
 
 
-
-#### 🔌 Devices  
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
-
 #### 🕵️‍♂️ Cybersecurity & Networking  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![NetHunter](https://img.shields.io/badge/Kali%20NetHunter-FFFFFF?style=flat&logo=kalilinux&logoColor=black)
 ![Trails OS](https://img.shields.io/badge/Trails%20OS-004B8D?style=flat&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) 
+![HashCalc](https://img.shields.io/badge/HashCalc-1E90FF?style=flat&logo=windows&logoColor=white)  
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
 ![TP-Link Rerouting](https://img.shields.io/badge/TP--Link%20Router%20Tools-1E8CFF?style=flat&logo=tp-link&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-003B49?style=flat&logo=data:image/png;base64,INSERT_BASE64_ENCODED_LOGO_HERE)
-![HashCalc](https://img.shields.io/badge/HashCalc-1E90FF?style=flat&logo=windows&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 ### 🎨 Beyond the Screen
 
@@ -57,9 +52,3 @@ neither I do carve stories on pencil tips and chalk nibs — a craft of precisio
 
 Through the lens, I'm a **shutterbug** by instinct, capturing moments that speak.  
 Off-screen,also a non photogenic shutterbug, capturing skies.
-
-
-<p align="center">
-  <img src="https://github.com/gokul2736/gokul2736/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
