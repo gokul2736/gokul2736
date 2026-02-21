@@ -12,7 +12,7 @@
 
 ### About Me
 
-- 🔭 I’m currently building: **KaptureLab** - A simple tool to generate clean, QR-enabled lab record PDFs 
+- 🔭 I’m currently working on: **CHMS** Centralised Hostel Management system 
 - 🌱 Learning everything I can about **LLM & Cybersecurity**.
 - 📸 Framing the unseen @ [Shutterbug.638](https://www.instagram.com/shutterbug.638/)
 
