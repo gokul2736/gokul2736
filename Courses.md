@@ -1,41 +1,41 @@
 ## SEM-1 Jan 2024
 - [ ] Yoga  
 - [ ] English  
-- [ ] Chemistry  
-- [ ] Tamil  
-- [ ] Linear Algebra Lab  
-- [ ] Maths for AI  
-- [ ] Fundamentals of Web dev  
+- [x] Chemistry  
+- [x] Tamil  
+- [x] Linear Algebra Lab  
+- [x] Maths for AI  
+- [x] Fundamentals of Web dev  
 - [ ] Python Programming  
 - [ ] Soft Skills  
 
 
 ## SEM-2 May 2024
 - [ ] Probability  
-- [ ] Tamil and Tech   
-- [ ] EDM  
+- [x] Tamil and Tech   
+- [x] EDM  
 - [ ] Programming Micro Controllers  
 - [ ] Fundamentals of C  
-- [ ] EMPD  
+- [x] EMPD  
 - [ ] Creative Skills for Communication  
-- [ ] Physics for Quantum Computing  
+- [x] Physics for Quantum Computing  
 - [ ] Digital Electronics  
 
 
 ## SEM-3 Dec 2024
 - [ ] Constitution of India  
-- [ ] Statistics  
+- [x] Statistics  
 - [ ] Data Analytics with Python (Nptel)  
 - [ ] Theory of Computation  
 - [ ] Software Engineering  
-- [ ] Computer Networks  
-- [ ] Operating System  
-- [ ] QA-1  
+- [x] Computer Networks  
+- [x] Operating System  
+- [x] QA-1  
 - [ ] Advance C   
 - [ ] Professional Ethics  
 - [ ] Environmental Science   
 - [ ] Implant Training  
-- [ ] BEEE  
+- [x] BEEE  
 
 
 ## SEM-4 Jun 2025
