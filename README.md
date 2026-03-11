@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  "Between silicon and graphite — I build, carve, and capture."
+  "Between silicon and graphite — I capture."
 </p>
 
 
 ### About Me
 
 - 🔭 I’m currently working on: **CHMS** Centralised Hostel Management system 
-- 🌱 Learning everything I can about **LLM & Cybersecurity**.
+- 🌱 Learning everything I can about **LLMs & Cybersecurity**.
 - 📸 Framing the unseen @ [Shutterbug.638](https://www.instagram.com/shutterbug.638/)
 
 
@@ -51,4 +51,4 @@ I practice the delicate craft of **micro-carving**, sculpting stories on the fra
 neither I do carve stories on pencil tips and chalk nibs — a craft of precision and patience.
 
 Through the lens, I'm a **shutterbug** by instinct, capturing moments that speak.  
-Off-screen,also a non photogenic shutterbug, capturing skies.
+Off-screen,also a non photogenic loves to capture skies.
