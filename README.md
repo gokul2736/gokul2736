@@ -11,9 +11,7 @@
 
 
 ### About Me
-
-- 🔭 I’m currently working on: **CHMS** Centralised Hostel Management system 
-- 🌱 Learning everything I can about **LLMs & Cybersecurity**.
+- 🌱 Learning everything I can about **LLMs & Digital Footprinting**.
 - 📸 Framing the unseen @ [Shutterbug.638](https://www.instagram.com/shutterbug.638/)
 
 
