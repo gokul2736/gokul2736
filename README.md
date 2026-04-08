@@ -26,22 +26,20 @@
 
 #### 🧪 Currently Exploring  
 ![DFIR](https://img.shields.io/badge/DFIR-Digital%20Forensics%20%26%20Incident%20Response-003B49?style=flat&logo=virustotal&logoColor=white)  
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-007ACC?style=flat&logo=tensorflow&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-333333?style=flat&logo=hackthebox&logoColor=green)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
+
 
 
 #### 🕵️‍♂️ Cybersecurity & Networking  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![NetHunter](https://img.shields.io/badge/Kali%20NetHunter-FFFFFF?style=flat&logo=kalilinux&logoColor=black)
 ![Trails OS](https://img.shields.io/badge/Trails%20OS-004B8D?style=flat&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) 
-![HashCalc](https://img.shields.io/badge/HashCalc-1E90FF?style=flat&logo=windows&logoColor=white)  
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat&logo=torproject&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)   
 ![TP-Link Rerouting](https://img.shields.io/badge/TP--Link%20Router%20Tools-1E8CFF?style=flat&logo=tp-link&logoColor=white)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-003B49?style=flat&logo=data:image/png;base64,INSERT_BASE64_ENCODED_LOGO_HERE)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
 ### 🎨 Beyond the Screen
 
