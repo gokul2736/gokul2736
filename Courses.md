@@ -6,7 +6,7 @@
 - [x] Linear Algebra Lab  
 - [x] Maths for AI  
 - [x] Fundamentals of Web dev  
-- [ ] Python Programming  
+- [] Python Programming  
 - [ ] Soft Skills  
 
 
@@ -65,14 +65,20 @@
 ## SEM-6 Term-1 Jan 21st 2026 - April 10th 2026
 - [ ] Placement Training
 
-## SEM-6 Term-2 April 16th 2026- IDK
+## SEM-6 Term-2 April 16th 2026- June 23rd IG
 - [ ] OOP with Java
 - [ ] Artificial Intelligence for Games
-- [ ] Drones for Agriculture
+- [ ] Drones for Agriculture (Withdraw)
 - [ ] Gender Sensitization
 - [x] Human Resource Management and Team Building
-- [ ] Modern Trends in Physical Education and Sports Sciences
+- [ ] Modern Trends in Physical Education and Sports Sciences (Withdraw)
+- [ ] Food Nutrition and Health Technology
+## June to July Training for Placement (For Me Holidays)
 
-
+## SEM-7 Term-1 16th July to IDK
+- [ ] Reinforcement Learning
+- [ ] Renewable Energy Sources
+- [ ] Applied Artificial Intelligence
+- [ ] Project 1
 
 
