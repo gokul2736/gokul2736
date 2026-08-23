@@ -6,12 +6,12 @@
 - [x] Linear Algebra Lab  
 - [x] Maths for AI  
 - [x] Fundamentals of Web dev  
-- [] Python Programming  
+- [x] Python Programming  
 - [ ] Soft Skills  
 
 
 ## SEM-2 May 2024
-- [ ] Probability  
+- [x] Probability  
 - [x] Tamil and Tech   
 - [x] EDM  
 - [ ] Programming Micro Controllers  
@@ -23,7 +23,7 @@
 
 
 ## SEM-3 Dec 2024
-- [ ] Constitution of India  
+- [x] Constitution of India  
 - [x] Statistics  
 - [ ] Data Analytics with Python (Nptel)  
 - [ ] Theory of Computation  
@@ -59,7 +59,7 @@
 - [ ] Cyber Law  
 - [ ] Database Management System
 - [x] National Service Scheme
-- [ ] Implant/Internship
+- [x] Implant/Internship
 - [ ] Employability Enhancement Skills
 
 ## SEM-6 Term-1 Jan 21st 2026 - April 10th 2026
