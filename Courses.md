@@ -75,10 +75,14 @@
 - [ ] Food Nutrition and Health Technology
 ## June to July Training for Placement (For Me Holidays)
 
-## SEM-7 Term-1 16th July to IDK
+## SEM-7 Term-1 16th July to 19 Sept 2026
 - [ ] Reinforcement Learning
 - [ ] Renewable Energy Sources
 - [ ] Applied Artificial Intelligence
 - [ ] Project 1
+
+## SEM-7 Term-2 
+### 22nd Oct to 30 Oct (HCL Tech - Testing Training)   
+
 
 
